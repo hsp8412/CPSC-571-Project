@@ -5,7 +5,7 @@ pip3 install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn scipy
 
 Then install jupyter notebook:\
 `
-pip install notebook
+pip3 install notebook
 `
 
 Then start the jupyter server in the folder:\
